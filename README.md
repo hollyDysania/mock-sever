@@ -1,6 +1,6 @@
 # mock-sever
 
-> A Vue.js project
+> express + mockjs server
 
 ## Build Setup
 
@@ -17,4 +17,3 @@ npm run mock
 ```
 改改字段就可以根据业务自己调试用了
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
