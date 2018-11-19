@@ -5,13 +5,13 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 安装
 npm install
 
-# serve with hot reload at localhost:8080
-// 看效果+启服务
+# 看效果+启服务
 npm run mock-dev
-// 只启服务
+
+# 只启服务
 npm run mock
 
 ```
