@@ -15,8 +15,8 @@ npm run mock-dev
 npm run mock
 
 ```
-由于每个项目携带的请求头不同 接口也要进行相应配置 否则会出现跨域的报错
-`Request header field Authorization is not allowed by Access-Control-Allow-Headers in preflight response`
+由于每个项目携带的请求头不同 响应头也要进行相应配置 否则会出现如下关于跨域的报错
+`Request header field xxx is not allowed by Access-Control-Allow-Headers in preflight response`
 
 在mock文件夹下的index.js中进行修改
 
