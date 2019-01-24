@@ -15,6 +15,8 @@ npm run mock-dev
 npm run mock
 
 ```
+只启服务的情况下
+
 由于每个项目携带的请求头不同 响应头也要进行相应配置 否则会出现如下关于跨域的报错
 `Request header field xxx is not allowed by Access-Control-Allow-Headers in preflight response`
 
