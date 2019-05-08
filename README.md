@@ -2,6 +2,9 @@
 
 > express + mockjs server
 
+## 效果
+![](https://user-gold-cdn.xitu.io/2018/11/19/1672a14d33299e91?imageslim)
+
 ## Build Setup
 
 ``` bash
